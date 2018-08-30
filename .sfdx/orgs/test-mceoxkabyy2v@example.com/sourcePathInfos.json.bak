@@ -2,14 +2,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1535590707752,
             "changeTime": 1535590707752,
             "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1535590713703,
             "changeTime": 1535590713703,
             "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,28 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1535594006713,
+            "changeTime": 1535594006713,
+            "contentHash": "8b92530e51e1a0c914754202c5c72d69956edcea",
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1535593394981,
-            "changeTime": 1535593394981,
-            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86"
+            "state": "u"
         }
     ],
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1535593162519,
-            "changeTime": 1535593162519,
-            "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8",
+            "size": 224,
+            "modifiedTime": 1535594149743,
+            "changeTime": 1535594149743,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f"
         }
     ],
     [
@@ -74,14 +73,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1535590667910,
             "changeTime": 1535590667910,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -89,14 +88,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1535590667918,
             "changeTime": 1535590667918,
             "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -104,14 +103,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1535590667926,
             "changeTime": 1535590667926,
             "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -119,14 +118,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1535590667933,
             "changeTime": 1535590667933,
             "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -134,14 +133,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1535590667939,
             "changeTime": 1535590667939,
             "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -149,27 +148,27 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17965,
             "modifiedTime": 1535593395003,
             "changeTime": 1535593395003,
-            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74"
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1535590667958,
             "changeTime": 1535590667958,
             "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -177,14 +176,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1535590667910,
             "changeTime": 1535590667910,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -192,14 +191,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1535590667908,
             "changeTime": 1535590667908,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -207,14 +206,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/objects",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1535590667907,
             "changeTime": 1535590667907,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -222,14 +221,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/layouts",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1535590667939,
             "changeTime": 1535590667939,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -237,27 +236,27 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1535593395006,
             "changeTime": 1535593395006,
-            "contentHash": "2afeb45d224228001924fa66a979e1fac25ae018"
+            "contentHash": "2afeb45d224228001924fa66a979e1fac25ae018",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1535590667958,
             "changeTime": 1535590667958,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -265,14 +264,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/classes",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1535592993009,
             "changeTime": 1535592993009,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -280,14 +279,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1535593082402,
             "changeTime": 1535593082402,
             "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -295,14 +294,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1535592993009,
             "changeTime": 1535592993009,
             "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -310,14 +309,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1535593144735,
             "changeTime": 1535593144735,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -325,14 +324,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1535593144734,
             "changeTime": 1535593144734,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -340,29 +339,28 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 155,
-            "modifiedTime": 1535593176057,
-            "changeTime": 1535593176057,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "size": 203,
+            "modifiedTime": 1535594235138,
+            "changeTime": 1535594235138,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15"
         }
     ],
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1535593144731,
             "changeTime": 1535593144731,
             "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -370,14 +368,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 113,
             "modifiedTime": 1535593198422,
             "changeTime": 1535593198422,
             "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -385,14 +383,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1535593144735,
             "changeTime": 1535593144735,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -400,14 +398,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1535593144734,
             "changeTime": 1535593144734,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -415,14 +413,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1535593144732,
             "changeTime": 1535593144732,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -430,14 +428,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1535593144732,
             "changeTime": 1535593144732,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -445,14 +443,14 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "n",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1535593144733,
             "changeTime": 1535593144733,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -460,66 +458,664 @@
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1535593394982,
             "changeTime": 1535593394982,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4901,
             "modifiedTime": 1535593394987,
             "changeTime": 1535593394987,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4565,
             "modifiedTime": 1535593394990,
             "changeTime": 1535593394990,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4561,
             "modifiedTime": 1535593395006,
             "changeTime": 1535593395006,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/darkojovanovic/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1535593394982,
             "changeTime": 1535593394982,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1535593482406,
+            "changeTime": 1535593482406,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1535593433919,
+            "changeTime": 1535593433919,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1535593482406,
+            "changeTime": 1535593482406,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1535593505931,
+            "changeTime": 1535593505931,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1535593482403,
+            "changeTime": 1535593482403,
+            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1535593532020,
+            "changeTime": 1535593532020,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1535593482406,
+            "changeTime": 1535593482406,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1535593482406,
+            "changeTime": 1535593482406,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1535593516742,
+            "changeTime": 1535593516742,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1535593482404,
+            "changeTime": 1535593482404,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1535593482405,
+            "changeTime": 1535593482405,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1535593433918,
+            "changeTime": 1535593433918,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1535593451852,
+            "changeTime": 1535593451852,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1535593433916,
+            "changeTime": 1535593433916,
+            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1535593465859,
+            "changeTime": 1535593465859,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1535593433919,
+            "changeTime": 1535593433919,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1535593433918,
+            "changeTime": 1535593433918,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1535593433916,
+            "changeTime": 1535593433916,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1535593433917,
+            "changeTime": 1535593433917,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1535593433917,
+            "changeTime": 1535593433917,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1535594006714,
+            "changeTime": 1535594006714,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1535594006806,
+            "changeTime": 1535594006806,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1535594006807,
+            "changeTime": 1535594006807,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2464,
+            "modifiedTime": 1535594006807,
+            "changeTime": 1535594006807,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1535594006807,
+            "changeTime": 1535594006807,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1535594006808,
+            "changeTime": 1535594006808,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
+            "isDirectory": false,
+            "size": 398589,
+            "modifiedTime": 1535594006808,
+            "changeTime": 1535594006808,
+            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "size": 759894,
+            "modifiedTime": 1535594006810,
+            "changeTime": 1535594006810,
+            "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "size": 400314,
+            "modifiedTime": 1535594006811,
+            "changeTime": 1535594006811,
+            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 759986,
+            "modifiedTime": 1535594006812,
+            "changeTime": 1535594006812,
+            "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "size": 14106,
+            "modifiedTime": 1535594006813,
+            "changeTime": 1535594006813,
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "size": 140540,
+            "modifiedTime": 1535594006815,
+            "changeTime": 1535594006815,
+            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "size": 191113,
+            "modifiedTime": 1535594006817,
+            "changeTime": 1535594006817,
+            "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1535594006805,
+            "changeTime": 1535594006805,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1535594006808,
+            "changeTime": 1535594006808,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1535594006817,
+            "changeTime": 1535594006817,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1535594149747,
+            "changeTime": 1535594149747,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1535594149746,
+            "changeTime": 1535594149746,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1535594183793,
+            "changeTime": 1535594183793,
+            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1535594149744,
+            "changeTime": 1535594149744,
+            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1535594209646,
+            "changeTime": 1535594209646,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1535594149747,
+            "changeTime": 1535594149747,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1535594149746,
+            "changeTime": 1535594203395,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 378,
+            "modifiedTime": 1535594195313,
+            "changeTime": 1535594195313,
+            "contentHash": "195c0a2d32ab26c8b56292e40da9c92711dc3fab"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1535594149745,
+            "changeTime": 1535594149745,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/darkojovanovic/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1535594149745,
+            "changeTime": 1535594149745,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
